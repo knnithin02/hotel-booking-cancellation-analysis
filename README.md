@@ -71,5 +71,5 @@ See [`report/Hotel_Cancellation_Analysis_Report.md`](report/Hotel_Cancellation_A
 
 * Nithin K N
 *  https://www.linkedin.com/in/nithin-k-n-/
-*  knnithin02@gmail.com *
+*  knnithin02@gmail.com 
 
